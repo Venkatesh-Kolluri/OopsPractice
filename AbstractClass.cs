@@ -9,15 +9,13 @@ namespace Oops
 {
    public class AbstractClass 
     {
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
             ABC abc = new XYZ2();
             abc.connection();
             abc.saveData();
 
-        }*/
-
-       
+        }      
     }
     public abstract class ABC : A
     {
