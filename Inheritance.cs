@@ -9,13 +9,13 @@ namespace Oops
 {
     internal class Inheritance
     {
-       /* public static void Main(string[] args)
+        public static void Main(string[] args)
         {
            // parent p =new parent();
            child1 p1 = new child1();
             //child2 p2 = new child2();
 
-        }*/
+        }
         
     }
 
